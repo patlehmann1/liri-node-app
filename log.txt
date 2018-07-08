@@ -148,3 +148,41 @@
               URL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
 
 
+
+
+"spotify-this-song,\"I Want it That Way\""
+
+              ================= LIRI RESULTS ==================
+
+              Song Name: '"I WANT IT THAT WAY"'
+
+              Album Name: The Hits--Chapter One
+
+              Artist Name: Backstreet Boys
+
+              URL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+
+
+
+
+              ================= LIRI RESULTS ==================
+
+              Title: The Shining
+
+              Year: 1980
+
+              Rated: R
+
+              IMDB Rating: 8.4
+
+              Country: UK, USA
+
+              Language: English
+
+              Plot: A family heads to an isolated hotel for the winter where an evil spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.
+
+              Actors: Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers
+
+              IMDb Rating: 8.4
+
+

@@ -23,9 +23,9 @@ function movieSearch(movieName) {
         movieName = "Mr Nobody";
     }
 
-    var urlHit = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
+    var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
 
-    request(urlHit, function (err, res, body) {
+    request(queryUrl, function (err, res, body) {
         if (err) {
             console.log('Error occurred: ' + err);
             return;
@@ -109,7 +109,7 @@ function doWhatItSays() {
         if (dataArr.length == 2) {
             choice(dataArr[0], dataArr[1]);
         } else if (dataArr.length == 1) {
-            choice(dataArr[0]);
+            (dataArr[0]);
         }
 
     });

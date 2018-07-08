@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/patlehmann1/liri-node-app/issues"
   },
-  "homepage": "https://github.com/patlehmann1/liri-node-app#readme"
+  "homepage": "https://github.com/patlehmann1/liri-node-app#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
 }

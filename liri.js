@@ -32,7 +32,7 @@ function movieSearch(movieName) {
         } else {
             let jsonData = JSON.parse(body);
             // console.log(jsonData);
-            output = space + "================= LIRI RESULTS==================" +
+            output = space + "================= LIRI RESULTS ==================" +
                 space + 'Title: ' + jsonData.Title +
                 space + 'Year: ' + jsonData.Year +
                 space + 'Rated: ' + jsonData.Rated +
@@ -107,9 +107,9 @@ function doWhatItSays() {
         var dataArr = data.split(',')
 
         if (dataArr.length == 2) {
-            pick(dataArr[0], dataArr[1]);
+            choice(dataArr[0], dataArr[1]);
         } else if (dataArr.length == 1) {
-            pick(dataArr[0]);
+            choice(dataArr[0]);
         }
 
     });

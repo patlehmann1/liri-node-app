@@ -1,0 +1,135 @@
+
+[{"created at: ":"Sun Jul 08 15:58:03 +0000 2018","Tweets: ":"#Isles rule, everyone else sucks"},{"created at: ":"Sun Jul 08 15:57:39 +0000 2018","Tweets: ":"yo what it do"},{"created at: ":"Sun Jul 08 15:38:24 +0000 2018","Tweets: ":"This are just tweets to fill up space lol"},{"created at: ":"Sun Jul 08 15:38:06 +0000 2018","Tweets: ":"I listen to ambient electronic music while I code."},{"created at: ":"Sun Jul 08 15:37:35 +0000 2018","Tweets: ":"Did I mention I like hockey?"},{"created at: ":"Sun Jul 08 15:36:25 +0000 2018","Tweets: ":"Bacon is good for me"},{"created at: ":"Sun Jul 08 15:36:20 +0000 2018","Tweets: ":"I like coffee"},{"created at: ":"Sun Jul 08 15:36:14 +0000 2018","Tweets: ":"I love the @NYIslanders"},{"created at: ":"Sun Jul 08 15:36:05 +0000 2018","Tweets: ":"I enjoy coding and creating things!"},{"created at: ":"Sun Jul 08 15:35:51 +0000 2018","Tweets: ":"This is a dummy account that I'm using for University of Richmonds Coding Bootcamp!"}]
+
+              ================= LIRI RESULTS ==================
+
+              Song Name: '<SONG NAME HERE>'
+
+              Album Name: Metal on the Inside, Vol. 2
+
+              Artist Name: Tim Johnston
+
+              URL: https://open.spotify.com/album/5X5XYVUIFz0Vv2jqZ3uaL7
+
+
+
+
+              ================= LIRI RESULTS ==================
+
+              Song Name: '<SONG NAME HERE>'
+
+              Album Name: Metal on the Inside, Vol. 2
+
+              Artist Name: Tim Johnston
+
+              URL: https://open.spotify.com/album/5X5XYVUIFz0Vv2jqZ3uaL7
+
+
+
+
+              ================= LIRI RESULTS ==================
+
+              Song Name: '<SONG NAME HERE>'
+
+              Album Name: Metal on the Inside, Vol. 2
+
+              Artist Name: Tim Johnston
+
+              URL: https://open.spotify.com/album/5X5XYVUIFz0Vv2jqZ3uaL7
+
+
+
+
+              ================= LIRI RESULTS ==================
+
+              Song Name: 'FOR'
+
+              Album Name: Nice For What
+
+              Artist Name: Drake
+
+              URL: https://open.spotify.com/album/1ZGxGu4fMROqmZsFSoepeE
+
+
+
+
+              ================= LIRI RESULTS ==================
+
+              Song Name: 'THE SIGN'
+
+              Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+
+              Artist Name: Ty Dolla $ign
+
+              URL: https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK
+
+
+
+
+              ================= LIRI RESULTS==================
+
+              Title: Ghostbusters
+
+              Year: 1984
+
+              Rated: PG
+
+              IMDB Rating: 7.8
+
+              Country: USA
+
+              Language: English
+
+              Plot: Three former parapsychology professors set up shop as a unique ghost removal service.
+
+              Actors: Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis
+
+              IMDb Rating: 7.8
+
+
+
+
+              ================= LIRI RESULTS==================
+
+              Title: Mr. Nobody
+
+              Year: 2009
+
+              Rated: R
+
+              IMDB Rating: 7.9
+
+              Country: Belgium, Germany, Canada, France, USA, UK
+
+              Language: English, Mohawk
+
+              Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+              Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+              IMDb Rating: 7.9
+
+
+
+
+              ================= LIRI RESULTS==================
+
+              Title: Mr. Nobody
+
+              Year: 2009
+
+              Rated: R
+
+              IMDB Rating: 7.9
+
+              Country: Belgium, Germany, Canada, France, USA, UK
+
+              Language: English, Mohawk
+
+              Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+              Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+              IMDb Rating: 7.9
+
+

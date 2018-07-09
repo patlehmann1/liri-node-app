@@ -277,3 +277,27 @@
 "lets was successfully posted on my your twitter page!"
 
 "yo was successfully posted on your twitter page!"
+
+              ================= LIRI RESULTS ==================
+
+              Title: Spaceballs
+
+              Year: 1987
+
+              Rated: PG
+
+              IMDB Rating: 7.1
+
+              Country: USA
+
+              Language: English
+
+              Plot: Planet Spaceballs' President Skroob sends Lord Dark Helmet to steal planet Druidia's abundant supply of air to replenish their own, and only Lone Starr can stop them.
+
+              Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
+
+              IMDb Rating: 7.1
+
+
+"ketchup was added successfully!"
+

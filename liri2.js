@@ -16,13 +16,13 @@ function writeToLog(data) {
     });
 }
 
-function movieSearch(movieName){
-    
+function movieSearch(movieName) {
+
     if (movieName = undefined) {
         movieName = "Mr Nobody";
 
         var queryURL = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
-        
+
     }
 
 }

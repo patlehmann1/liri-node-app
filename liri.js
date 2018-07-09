@@ -105,9 +105,10 @@ function tweetThis(tweetContent) {
 
     var client = new twitter(keys.twitter);
 
-    client.post('statuses/update', { status: tweetContent}, function (error, tweet, response) {
+    client.post('statuses/update', { status: tweetContent }, function (error, tweet, response) {
         if (error) throw error;
         console.log(tweet);  // Tweet body.
+        writeToLog(tweetContent + " was posted to your twitter profile successfully!");
     });
 
 }

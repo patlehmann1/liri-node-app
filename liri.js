@@ -1,4 +1,4 @@
-var dotenv = require("dotenv").config();
+require("dotenv").config();
 var keys = require("./keys.js");
 var fs = require("fs");
 var twitter = require("twitter");
@@ -21,36 +21,37 @@ function movieSearch(movieName) {
 
     if (!movieName) {
         movieName = "Mr Nobody";
+    } else {
+
+        var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
+
+        request(queryUrl, function (err, res, body) {
+            if (err) {
+                console.log('Error occurred: ' + err);
+                return;
+            } else {
+                let jsonData = JSON.parse(body);
+
+                output = space + "================= LIRI RESULTS ==================" +
+                    space + 'Title: ' + jsonData.Title +
+                    space + 'Year: ' + jsonData.Year +
+                    space + 'Rated: ' + jsonData.Rated +
+                    space + 'IMDB Rating: ' + jsonData.imdbRating +
+                    space + 'Country: ' + jsonData.Country +
+                    space + 'Language: ' + jsonData.Language +
+                    space + 'Plot: ' + jsonData.Plot +
+                    space + 'Actors: ' + jsonData.Actors +
+                    space + 'IMDb Rating: ' + jsonData.imdbRating + "\n\n\n";
+
+                console.log(output);
+
+                fs.appendFile("log.txt", output, function (err) {
+                    if (err) throw err;
+                    console.log('Saved to log.txt!');
+                });
+            }
+        });
     }
-
-    var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
-
-    request(queryUrl, function (err, res, body) {
-        if (err) {
-            console.log('Error occurred: ' + err);
-            return;
-        } else {
-            let jsonData = JSON.parse(body);
-            // console.log(jsonData);
-            output = space + "================= LIRI RESULTS ==================" +
-                space + 'Title: ' + jsonData.Title +
-                space + 'Year: ' + jsonData.Year +
-                space + 'Rated: ' + jsonData.Rated +
-                space + 'IMDB Rating: ' + jsonData.imdbRating +
-                space + 'Country: ' + jsonData.Country +
-                space + 'Language: ' + jsonData.Language +
-                space + 'Plot: ' + jsonData.Plot +
-                space + 'Actors: ' + jsonData.Actors +
-                space + 'IMDb Rating: ' + jsonData.imdbRating + "\n\n\n";
-
-            console.log(output);
-
-            fs.appendFile("log.txt", output, function (err) {
-                if (err) throw err;
-                console.log('Saved to log.txt!');
-            });
-        }
-    });
 }
 
 function spotifySearch(songName) {
@@ -87,7 +88,7 @@ function recentTweets() {
     client.get('statuses/user_timeline', params, function (err, tweets, res) {
 
         if (!err) {
-            let data = [];
+            var data = [];
             for (let i = 0; i < tweets.length; i++) {
                 data.push({
                     'created at: ': tweets[i].created_at,
@@ -99,6 +100,17 @@ function recentTweets() {
         }
     });
 };
+
+function tweetThis(tweetContent) {
+
+    var client = new twitter(keys.twitter);
+
+    client.post('statuses/update', { status: tweetContent}, function (error, tweet, response) {
+        if (error) throw error;
+        console.log(tweet);  // Tweet body.
+    });
+
+}
 
 function doWhatItSays() {
     fs.readFile("random.txt", "utf8", function (error, data) {
@@ -126,6 +138,9 @@ function choice(caseData, functionData) {
         case 'my-tweets':
             recentTweets();
             break;
+        case 'tweet-this':
+            tweetThis(functionData);
+            break;
         case 'movie-this':
             movieSearch(functionData);
             break;
@@ -139,5 +154,4 @@ function appStart(argOne, argTwo) {
 };
 
 appStart(process.argv[2], process.argv[3]);
-
 

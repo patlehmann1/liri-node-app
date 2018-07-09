@@ -186,3 +186,94 @@
               IMDb Rating: 8.4
 
 
+
+
+              ================= LIRI RESULTS ==================
+
+              Title: The Shining
+
+              Year: 1980
+
+              Rated: R
+
+              IMDB Rating: 8.4
+
+              Country: UK, USA
+
+              Language: English
+
+              Plot: A family heads to an isolated hotel for the winter where an evil spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.
+
+              Actors: Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers
+
+              IMDb Rating: 8.4
+
+
+
+
+              ================= LIRI RESULTS ==================
+
+              Title: L'aventure Biodôme
+
+              Year: 1995
+
+              Rated: N/A
+
+              IMDB Rating: 3.8
+
+              Country: Canada
+
+              Language: French
+
+              Plot: N/A
+
+              Actors: N/A
+
+              IMDb Rating: 3.8
+
+
+
+
+              ================= LIRI RESULTS ==================
+
+              Title: L'aventure Biodôme
+
+              Year: 1995
+
+              Rated: N/A
+
+              IMDB Rating: 3.8
+
+              Country: Canada
+
+              Language: French
+
+              Plot: N/A
+
+              Actors: N/A
+
+              IMDb Rating: 3.8
+
+
+
+
+[{"created at: ":"Sun Jul 08 15:58:03 +0000 2018","Tweets: ":"#Isles rule, everyone else sucks"},{"created at: ":"Sun Jul 08 15:57:39 +0000 2018","Tweets: ":"yo what it do"},{"created at: ":"Sun Jul 08 15:38:24 +0000 2018","Tweets: ":"This are just tweets to fill up space lol"},{"created at: ":"Sun Jul 08 15:38:06 +0000 2018","Tweets: ":"I listen to ambient electronic music while I code."},{"created at: ":"Sun Jul 08 15:37:35 +0000 2018","Tweets: ":"Did I mention I like hockey?"},{"created at: ":"Sun Jul 08 15:36:25 +0000 2018","Tweets: ":"Bacon is good for me"},{"created at: ":"Sun Jul 08 15:36:20 +0000 2018","Tweets: ":"I like coffee"},{"created at: ":"Sun Jul 08 15:36:14 +0000 2018","Tweets: ":"I love the @NYIslanders"},{"created at: ":"Sun Jul 08 15:36:05 +0000 2018","Tweets: ":"I enjoy coding and creating things!"},{"created at: ":"Sun Jul 08 15:35:51 +0000 2018","Tweets: ":"This is a dummy account that I'm using for University of Richmonds Coding Bootcamp!"},{"created at: ":"Sun Jul 08 15:35:21 +0000 2018","Tweets: ":"Yooo whats good"}]
+
+              ================= LIRI RESULTS ==================
+
+              Song Name: 'THE SIGN'
+
+              Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+
+              Artist Name: Ty Dolla $ign
+
+              URL: https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK
+
+
+"hello!"
+
+
+
+"lets was successfully posted on my your twitter page!"
+
+"yo was successfully posted on your twitter page!"

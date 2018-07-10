@@ -37,6 +37,7 @@ function movieSearch(movieName) {
                     space + 'Year: ' + jsonData.Year +
                     space + 'Rated: ' + jsonData.Rated +
                     space + 'IMDB Rating: ' + jsonData.imdbRating +
+                    space + 'Rotten Tomatoes Rating: ' + jsonData.Ratings[1].Value +
                     space + 'Country: ' + jsonData.Country +
                     space + 'Language: ' + jsonData.Language +
                     space + 'Plot: ' + jsonData.Plot +

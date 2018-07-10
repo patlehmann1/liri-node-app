@@ -301,3 +301,56 @@
 
 "ketchup was added successfully!"
 
+"spotify-this-song,\"I Want it That Way\""
+
+
+
+              ================= LIRI RESULTS ==================
+
+              Song Name: 'WHOA'
+
+              Album Name: Doris
+
+              Artist Name: Earl Sweatshirt
+
+              URL: https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE
+
+
+
+
+              ================= LIRI RESULTS ==================
+
+              Song Name: 'SHEESH'
+
+              Album Name: Sheesh
+
+              Artist Name: Josh Sallee
+
+              URL: https://open.spotify.com/album/7os9vnJ7U91VugjVq1DK11
+
+
+
+
+              ================= LIRI RESULTS ==================
+
+              Title: Spaceballs
+
+              Year: 1987
+
+              Rated: PG
+
+              IMDB Rating: 7.1
+
+              Rotten Tomatoes Rating: 57%
+
+              Country: USA
+
+              Language: English
+
+              Plot: Planet Spaceballs' President Skroob sends Lord Dark Helmet to steal planet Druidia's abundant supply of air to replenish their own, and only Lone Starr can stop them.
+
+              Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
+
+              IMDb Rating: 7.1
+
+

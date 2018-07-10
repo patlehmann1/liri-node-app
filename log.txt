@@ -354,3 +354,29 @@
               IMDb Rating: 7.1
 
 
+
+
+              ================= LIRI RESULTS ==================
+
+              Title: Airheads
+
+              Year: 1994
+
+              Rated: PG-13
+
+              IMDB Rating: 6.1
+
+              Rotten Tomatoes Rating: 21%
+
+              Country: USA
+
+              Language: English
+
+              Plot: Three band members hoping for a big break head to a radio station to play their demo tape and wind up holding everyone hostage with plastic guns when the head DJ refuses to play them.
+
+              Actors: Brendan Fraser, Steve Buscemi, Adam Sandler, Chris Farley
+
+
+
+
+"This is a random tweet! was posted to your twitter profile successfully!"

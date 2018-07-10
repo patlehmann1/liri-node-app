@@ -41,8 +41,7 @@ function movieSearch(movieName) {
                     space + 'Country: ' + jsonData.Country +
                     space + 'Language: ' + jsonData.Language +
                     space + 'Plot: ' + jsonData.Plot +
-                    space + 'Actors: ' + jsonData.Actors +
-                    space + 'IMDb Rating: ' + jsonData.imdbRating + "\n\n\n";
+                    space + 'Actors: ' + jsonData.Actors + "\n\n\n";
 
                 console.log(output);
 
@@ -60,26 +59,27 @@ function spotifySearch(songName) {
 
     if (!songName) {
         songName = "The Sign";
+    } else {
+
+        spotify.search({ type: 'track', query: songName }, function (err, data) {
+            if (err) {
+                console.log('Error occurred: ' + err);
+                return;
+            } else {
+                output = space + "================= LIRI RESULTS ==================" +
+                    space + "Song Name: " + "'" + songName.toUpperCase() + "'" +
+                    space + "Album Name: " + data.tracks.items[0].album.name +
+                    space + "Artist Name: " + data.tracks.items[0].album.artists[0].name +
+                    space + "URL: " + data.tracks.items[0].album.external_urls.spotify + "\n\n\n";
+                console.log(output);
+
+                fs.appendFile("log.txt", output, function (err) {
+                    if (err) throw err;
+                    console.log('Saved to log.txt!');
+                });
+            };
+        });
     }
-
-    spotify.search({ type: 'track', query: songName }, function (err, data) {
-        if (err) {
-            console.log('Error occurred: ' + err);
-            return;
-        } else {
-            output = space + "================= LIRI RESULTS ==================" +
-                space + "Song Name: " + "'" + songName.toUpperCase() + "'" +
-                space + "Album Name: " + data.tracks.items[0].album.name +
-                space + "Artist Name: " + data.tracks.items[0].album.artists[0].name +
-                space + "URL: " + data.tracks.items[0].album.external_urls.spotify + "\n\n\n";
-            console.log(output);
-
-            fs.appendFile("log.txt", output, function (err) {
-                if (err) throw err;
-                console.log('Saved to log.txt!');
-            });
-        };
-    });
 }
 
 function recentTweets() {
@@ -104,15 +104,20 @@ function recentTweets() {
 
 function tweetThis(tweetContent) {
 
-    var client = new twitter(keys.twitter);
+    if (!tweetContent) {
+        tweetContent = "This is a random tweet!";
+    } else {
 
-    client.post('statuses/update', { status: tweetContent }, function (error, tweet, response) {
-        if (error) throw error;
-        console.log(tweet);  // Tweet body.
-        writeToLog(tweetContent + " was posted to your twitter profile successfully!");
-    });
+        var client = new twitter(keys.twitter);
 
+        client.post('statuses/update', { status: tweetContent }, function (error, tweet, response) {
+            if (error) throw error;
+            console.log(tweet);  // Tweet body.
+            writeToLog(tweetContent + " was posted to your twitter profile successfully!");
+        });
+    }
 }
+
 
 function doWhatItSays() {
     fs.readFile("random.txt", "utf8", function (error, data) {

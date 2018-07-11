@@ -25,7 +25,7 @@ function movieSearch(movieName) {
 
         var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
 
-        request(queryUrl, function (err, res, body) {
+        request(queryUrl, function (err, _res, body) {
             if (err) {
                 console.log('Error occurred: ' + err);
                 return;
@@ -86,7 +86,7 @@ function recentTweets() {
     var client = new twitter(keys.twitter);
     var params = { screen_name: '540life', count: 20 };
 
-    client.get('statuses/user_timeline', params, function (err, tweets, res) {
+    client.get('statuses/user_timeline', params, function (err, tweets, _res) {
 
         if (!err) {
             var data = [];
@@ -110,7 +110,7 @@ function tweetThis(tweetContent) {
 
         var client = new twitter(keys.twitter);
 
-        client.post('statuses/update', { status: tweetContent }, function (error, tweet, response) {
+        client.post('statuses/update', { status: tweetContent }, function (error, tweet, _response) {
             if (error) throw error;
             console.log(tweet);  // Tweet body.
             writeToLog(tweetContent + " was posted to your twitter profile successfully!");
@@ -121,16 +121,19 @@ function tweetThis(tweetContent) {
 
 function doWhatItSays() {
     fs.readFile("random.txt", "utf8", function (error, data) {
-        console.log(data);
-        writeToLog(data);
-        var dataArr = data.split(',')
+        if (error) {
+            console.log(error);
+        } else {
+            console.log(data);
+            writeToLog(data);
+            var dataArr = data.split(',')
 
-        if (dataArr.length == 2) {
-            choice(dataArr[0], dataArr[1]);
-        } else if (dataArr.length == 1) {
-            (dataArr[0]);
+            if (dataArr.length == 2) {
+                choice(dataArr[0], dataArr[1]);
+            } else if (dataArr.length == 1) {
+                (dataArr[0]);
+            }
         }
-
     });
 }
 

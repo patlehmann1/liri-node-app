@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/patlehmann1/liri-node-app#readme",
   "dependencies": {
+    "bible-search": "^1.0.5",
     "dotenv": "^6.0.0",
     "node-spotify-api": "^1.0.7",
     "request": "^2.87.0",

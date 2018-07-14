@@ -539,3 +539,504 @@ Plot: A troubled child summons the courage to help a friendly alien escape Earth
 Actors: Dee Wallace, Henry Thomas, Peter Coyote, Robert MacNaughton
 
 
+
+================= LIRI RESULTS ==================
+
+Song Name: POISON
+
+Album Name: Love Is Poison
+
+Artist Name: YoungBoy Never Broke Again
+
+URL: https://open.spotify.com/album/2FJaOIktvsd7nrEnxJCeES
+
+
+
+================= LIRI RESULTS ==================
+
+Song Name: PIMP
+
+Album Name: Get Rich Or Die Tryin' (Explicit Version)
+
+Artist Name: 50 Cent
+
+URL: https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P
+
+
+
+================= LIRI RESULTS ==================
+
+Song Name: PIMP
+
+Album Name: Get Rich Or Die Tryin' (Explicit Version)
+
+Artist Name: 50 Cent
+
+URL: https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P
+
+
+
+================= LIRI RESULTS ==================
+
+Title: Caddyshack
+
+Year: 1980
+
+Rated: R
+
+IMDB Rating: 7.3
+
+Rotten Tomatoes Rating: 74%
+
+Country: USA
+
+Language: English
+
+Plot: An exclusive golf course has to deal with a brash new member and a destructive dancing gopher.
+
+Actors: Chevy Chase, Rodney Dangerfield, Ted Knight, Michael O'Keefe
+
+
+[{"\n================= RECENT TWEET ==================":[0],"created at: ":"Tue Jul 10 22:13:41 +0000 2018","Tweets: ":"This is a random tweet!"},{"\n================= RECENT TWEET ==================":[1],"created at: ":"Mon Jul 09 22:44:41 +0000 2018","Tweets: ":"ketchup"},{"\n================= RECENT TWEET ==================":[2],"created at: ":"Mon Jul 09 22:43:25 +0000 2018","Tweets: ":"bacon"},{"\n================= RECENT TWEET ==================":[3],"created at: ":"Mon Jul 09 22:34:49 +0000 2018","Tweets: ":"whatup"},{"\n================= RECENT TWEET ==================":[4],"created at: ":"Mon Jul 09 22:34:38 +0000 2018","Tweets: ":"hello"},{"\n================= RECENT TWEET ==================":[5],"created at: ":"Mon Jul 09 22:32:14 +0000 2018","Tweets: ":"LETS GO ISLANDERS!"},{"\n================= RECENT TWEET ==================":[6],"created at: ":"Mon Jul 09 21:44:41 +0000 2018","Tweets: ":"yo"},{"\n================= RECENT TWEET ==================":[7],"created at: ":"Mon Jul 09 21:40:19 +0000 2018","Tweets: ":"lets"},{"\n================= RECENT TWEET ==================":[8],"created at: ":"Mon Jul 09 21:37:51 +0000 2018","Tweets: ":"hello!"},{"\n================= RECENT TWEET ==================":[9],"created at: ":"Sun Jul 08 15:58:03 +0000 2018","Tweets: ":"#Isles rule, everyone else sucks"},{"\n================= RECENT TWEET ==================":[10],"created at: ":"Sun Jul 08 15:57:39 +0000 2018","Tweets: ":"yo what it do"},{"\n================= RECENT TWEET ==================":[11],"created at: ":"Sun Jul 08 15:38:24 +0000 2018","Tweets: ":"This are just tweets to fill up space lol"},{"\n================= RECENT TWEET ==================":[12],"created at: ":"Sun Jul 08 15:38:06 +0000 2018","Tweets: ":"I listen to ambient electronic music while I code."},{"\n================= RECENT TWEET ==================":[13],"created at: ":"Sun Jul 08 15:37:35 +0000 2018","Tweets: ":"Did I mention I like hockey?"},{"\n================= RECENT TWEET ==================":[14],"created at: ":"Sun Jul 08 15:36:25 +0000 2018","Tweets: ":"Bacon is good for me"},{"\n================= RECENT TWEET ==================":[15],"created at: ":"Sun Jul 08 15:36:20 +0000 2018","Tweets: ":"I like coffee"},{"\n================= RECENT TWEET ==================":[16],"created at: ":"Sun Jul 08 15:36:14 +0000 2018","Tweets: ":"I love the @NYIslanders"},{"\n================= RECENT TWEET ==================":[17],"created at: ":"Sun Jul 08 15:36:05 +0000 2018","Tweets: ":"I enjoy coding and creating things!"},{"\n================= RECENT TWEET ==================":[18],"created at: ":"Sun Jul 08 15:35:51 +0000 2018","Tweets: ":"This is a dummy account that I'm using for University of Richmonds Coding Bootcamp!"},{"\n================= RECENT TWEET ==================":[19],"created at: ":"Sun Jul 08 15:35:21 +0000 2018","Tweets: ":"Yooo whats good"}]
+
+[{"\n================= RECENT TWEET ==================":[0],"created at: ":"Tue Jul 10 22:13:41 +0000 2018","Tweets: ":"This is a random tweet!"},{"\n================= RECENT TWEET ==================":[1],"created at: ":"Mon Jul 09 22:44:41 +0000 2018","Tweets: ":"ketchup"},{"\n================= RECENT TWEET ==================":[2],"created at: ":"Mon Jul 09 22:43:25 +0000 2018","Tweets: ":"bacon"},{"\n================= RECENT TWEET ==================":[3],"created at: ":"Mon Jul 09 22:34:49 +0000 2018","Tweets: ":"whatup"},{"\n================= RECENT TWEET ==================":[4],"created at: ":"Mon Jul 09 22:34:38 +0000 2018","Tweets: ":"hello"},{"\n================= RECENT TWEET ==================":[5],"created at: ":"Mon Jul 09 22:32:14 +0000 2018","Tweets: ":"LETS GO ISLANDERS!"},{"\n================= RECENT TWEET ==================":[6],"created at: ":"Mon Jul 09 21:44:41 +0000 2018","Tweets: ":"yo"},{"\n================= RECENT TWEET ==================":[7],"created at: ":"Mon Jul 09 21:40:19 +0000 2018","Tweets: ":"lets"},{"\n================= RECENT TWEET ==================":[8],"created at: ":"Mon Jul 09 21:37:51 +0000 2018","Tweets: ":"hello!"},{"\n================= RECENT TWEET ==================":[9],"created at: ":"Sun Jul 08 15:58:03 +0000 2018","Tweets: ":"#Isles rule, everyone else sucks"},{"\n================= RECENT TWEET ==================":[10],"created at: ":"Sun Jul 08 15:57:39 +0000 2018","Tweets: ":"yo what it do"},{"\n================= RECENT TWEET ==================":[11],"created at: ":"Sun Jul 08 15:38:24 +0000 2018","Tweets: ":"This are just tweets to fill up space lol"},{"\n================= RECENT TWEET ==================":[12],"created at: ":"Sun Jul 08 15:38:06 +0000 2018","Tweets: ":"I listen to ambient electronic music while I code."},{"\n================= RECENT TWEET ==================":[13],"created at: ":"Sun Jul 08 15:37:35 +0000 2018","Tweets: ":"Did I mention I like hockey?"},{"\n================= RECENT TWEET ==================":[14],"created at: ":"Sun Jul 08 15:36:25 +0000 2018","Tweets: ":"Bacon is good for me"},{"\n================= RECENT TWEET ==================":[15],"created at: ":"Sun Jul 08 15:36:20 +0000 2018","Tweets: ":"I like coffee"},{"\n================= RECENT TWEET ==================":[16],"created at: ":"Sun Jul 08 15:36:14 +0000 2018","Tweets: ":"I love the @NYIslanders"},{"\n================= RECENT TWEET ==================":[17],"created at: ":"Sun Jul 08 15:36:05 +0000 2018","Tweets: ":"I enjoy coding and creating things!"},{"\n================= RECENT TWEET ==================":[18],"created at: ":"Sun Jul 08 15:35:51 +0000 2018","Tweets: ":"This is a dummy account that I'm using for University of Richmonds Coding Bootcamp!"},{"\n================= RECENT TWEET ==================":[19],"created at: ":"Sun Jul 08 15:35:21 +0000 2018","Tweets: ":"Yooo whats good"}]
+
+
+================= LIRI RESULTS ==================
+
+Title: Airheads
+
+Year: 1994
+
+Rated: PG-13
+
+IMDB Rating: 6.1
+
+Rotten Tomatoes Rating: 21%
+
+Country: USA
+
+Language: English
+
+Plot: Three band members hoping for a big break head to a radio station to play their demo tape and wind up holding everyone hostage with plastic guns when the head DJ refuses to play them.
+
+Actors: Brendan Fraser, Steve Buscemi, Adam Sandler, Chris Farley
+
+
+
+================= LIRI RESULTS ==================
+
+Title: Full Metal Jacket
+
+Year: 1987
+
+Rated: R
+
+IMDB Rating: 8.3
+
+Rotten Tomatoes Rating: 93%
+
+Country: UK, USA
+
+Language: English, Vietnamese
+
+Plot: A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.
+
+Actors: Matthew Modine, Adam Baldwin, Vincent D'Onofrio, R. Lee Ermey
+
+
+
+================= LIRI RESULTS ==================
+
+Title: The Godfather
+
+Year: 1972
+
+Rated: R
+
+IMDB Rating: 9.2
+
+Rotten Tomatoes Rating: 98%
+
+Country: USA
+
+Language: English, Italian, Latin
+
+Plot: The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+
+Actors: Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
+
+
+
+================= LIRI RESULTS ==================
+
+Title: Fight Club
+
+Year: 1999
+
+Rated: R
+
+IMDB Rating: 8.8
+
+Rotten Tomatoes Rating: 79%
+
+Country: USA, Germany
+
+Language: English
+
+Plot: An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soapmaker, forming an underground fight club that evolves into something much, much more.
+
+Actors: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+
+
+
+================= LIRI RESULTS ==================
+
+Title: The Matrix
+
+Year: 1999
+
+Rated: R
+
+IMDB Rating: 8.7
+
+Rotten Tomatoes Rating: 87%
+
+Country: USA
+
+Language: English
+
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+
+
+================= LIRI RESULTS ==================
+
+Title: Super Mario Bros.
+
+Year: 1993
+
+Rated: PG
+
+IMDB Rating: 4.0
+
+Rotten Tomatoes Rating: 14%
+
+Country: UK, USA
+
+Language: English
+
+Plot: Two Brooklyn plumbers, Mario and Luigi, must travel to another dimension to rescue a princess from the evil dictator King Koopa and stop him from taking over the world.
+
+Actors: Bob Hoskins, John Leguizamo, Dennis Hopper, Samantha Mathis
+
+
+
+================= LIRI RESULTS ==================
+
+Title: TRON
+
+Year: 1982
+
+Rated: PG
+
+IMDB Rating: 6.8
+
+Rotten Tomatoes Rating: 70%
+
+Country: USA
+
+Language: English
+
+Plot: A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
+
+Actors: Jeff Bridges, Bruce Boxleitner, David Warner, Cindy Morgan
+
+
+
+================= LIRI RESULTS ==================
+
+Title: Encino Man
+
+Year: 1992
+
+Rated: PG
+
+IMDB Rating: 5.7
+
+Rotten Tomatoes Rating: 15%
+
+Country: USA
+
+Language: English
+
+Plot: When they find a frozen caveman in their back yard, two high school outcasts thaw him and introduce him to modern life while he in turn gets them to actually enjoy life.
+
+Actors: Sean Astin, Brendan Fraser, Pauly Shore, Megan Ward
+
+
+
+================= LIRI RESULTS ==================
+
+Title: Mallrats
+
+Year: 1995
+
+Rated: R
+
+IMDB Rating: 7.2
+
+Rotten Tomatoes Rating: 55%
+
+Country: USA
+
+Language: English
+
+Plot: Both dumped by their girlfriends, two best friends seek refuge in the local mall.
+
+Actors: Shannen Doherty, Jeremy London, Jason Lee, Claire Forlani
+
+
+
+================= LIRI RESULTS ==================
+
+Title: Chasing Amy
+
+Year: 1997
+
+Rated: R
+
+IMDB Rating: 7.3
+
+Rotten Tomatoes Rating: 88%
+
+Country: USA
+
+Language: English
+
+Plot: Holden and Banky are comic book artists. Everything's going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she's a lesbian.
+
+Actors: Ethan Suplee, Ben Affleck, Scott Mosier, Jason Lee
+
+
+
+================= LIRI RESULTS ==================
+
+Title: Jay and Silent Bob Strike Back
+
+Year: 2001
+
+Rated: R
+
+IMDB Rating: 6.9
+
+Rotten Tomatoes Rating: 53%
+
+Country: USA
+
+Language: English
+
+Plot: The comic "Bluntman and Chronic" is based on real-life stoners Jay and Silent Bob, so when they get no profit from a big-screen adaptation, they set out to wreck the movie.
+
+Actors: Jason Mewes, Kevin Smith, Ben Affleck, Jeff Anderson
+
+
+
+================= LIRI RESULTS ==================
+
+Song Name: undefined
+
+Album Name: Big Bad Luv
+
+Artist Name: John Moreland
+
+URL: https://open.spotify.com/album/4pxeXBb1UCiK6P38Cvg9Hw
+
+
+
+================= LIRI RESULTS ==================
+
+Song Name: john,moreland
+
+Album Name: Big Bad Luv
+
+Artist Name: John Moreland
+
+URL: https://open.spotify.com/album/4pxeXBb1UCiK6P38Cvg9Hw
+
+
+
+================= LIRI RESULTS ==================
+
+Song Name: undefined
+
+Album Name: Big Bad Luv
+
+Artist Name: John Moreland
+
+URL: https://open.spotify.com/album/4pxeXBb1UCiK6P38Cvg9Hw
+
+
+
+================= LIRI RESULTS ==================
+
+Song Name: undefined
+
+Album Name: Harry Styles
+
+Artist Name: Harry Styles
+
+URL: https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV
+
+
+
+================= LIRI RESULTS ==================
+
+Song Name: the,sign
+
+Album Name: Harry Styles
+
+Artist Name: Harry Styles
+
+URL: https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV
+
+
+
+================= LIRI RESULTS ==================
+
+Song Name: the sign
+================= LIRI RESULTS ==================
+
+Song Name: undefined
+================= LIRI RESULTS ==================
+
+Song Name: the,sign
+
+Album Name: Harry Styles
+
+Artist Name: Harry Styles
+
+URL: https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV
+
+
+
+================= LIRI RESULTS ==================
+
+Song Name: the sign
+
+Album Name: Harry Styles
+
+Artist Name: Harry Styles
+
+URL: https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV
+
+
+
+================= LIRI RESULTS ==================
+
+Song Name: T
+
+Album Name: Harry Styles
+
+Artist Name: Harry Styles
+
+URL: https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV
+
+
+
+================= LIRI RESULTS ==================
+
+Song Name: THE SIGN
+
+Album Name: Harry Styles
+
+Artist Name: Harry Styles
+
+URL: https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV
+
+
+
+================= LIRI RESULTS ==================
+
+Song Name: THE SIGN
+
+Album Name: Harry Styles
+
+Artist Name: Harry Styles
+
+URL: https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV
+
+
+================================================
+================= LIRI RESULTS ==================
+
+Song Name: JAILBREAK
+
+Album Name: Jailbreak (Deluxe Edition)
+
+Artist Name: Thin Lizzy
+
+URL: https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2
+
+
+================================================
+================= LIRI RESULTS ==================
+
+Song Name: BACON
+
+Album Name: Last Year Was Complicated
+
+Artist Name: Nick Jonas
+
+URL: https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna
+
+
+================================================
+================= LIRI RESULTS ==================
+
+Song Name: NO MORE
+
+Album Name: Sigh No More
+
+Artist Name: Mumford & Sons
+
+URL: https://open.spotify.com/album/7GiLJfRPHARQrRJf01P2Tt
+
+
+================================================
+================= LIRI RESULTS ==================
+
+Song Name: XX INTRO
+
+Album Name: Kate Simko & London Electronic Orchestra
+
+Artist Name: Kate Simko
+
+URL: https://open.spotify.com/album/4BIN17Mw2Bh1fbvQ5Egsii
+
+
+================================================
+================= LIRI RESULTS ==================
+
+Song Name: AROUND THE WORLD
+
+Album Name: Homework
+
+Artist Name: Daft Punk
+
+URL: https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y
+
+
+================================================
+
+"Hello My Dudes was posted to your twitter profile successfully!"
+
+"Lets go was posted to your twitter profile successfully!""pimpin aint easy was posted to your twitter profile successfully!"
+
+
+
+[{"\n================= RECENT TWEET ==================":[0],"created at: ":"Sat Jul 14 21:26:04 +0000 2018","Tweets: ":"pimpin aint easy"},{"\n================= RECENT TWEET ==================":[1],"created at: ":"Sat Jul 14 21:25:08 +0000 2018","Tweets: ":"Lets go"},{"\n================= RECENT TWEET ==================":[2],"created at: ":"Sat Jul 14 21:23:00 +0000 2018","Tweets: ":"Hello My Dudes"},{"\n================= RECENT TWEET ==================":[3],"created at: ":"Tue Jul 10 22:13:41 +0000 2018","Tweets: ":"This is a random tweet!"},{"\n================= RECENT TWEET ==================":[4],"created at: ":"Mon Jul 09 22:44:41 +0000 2018","Tweets: ":"ketchup"},{"\n================= RECENT TWEET ==================":[5],"created at: ":"Mon Jul 09 22:43:25 +0000 2018","Tweets: ":"bacon"},{"\n================= RECENT TWEET ==================":[6],"created at: ":"Mon Jul 09 22:34:49 +0000 2018","Tweets: ":"whatup"},{"\n================= RECENT TWEET ==================":[7],"created at: ":"Mon Jul 09 22:34:38 +0000 2018","Tweets: ":"hello"},{"\n================= RECENT TWEET ==================":[8],"created at: ":"Mon Jul 09 22:32:14 +0000 2018","Tweets: ":"LETS GO ISLANDERS!"},{"\n================= RECENT TWEET ==================":[9],"created at: ":"Mon Jul 09 21:44:41 +0000 2018","Tweets: ":"yo"},{"\n================= RECENT TWEET ==================":[10],"created at: ":"Mon Jul 09 21:40:19 +0000 2018","Tweets: ":"lets"},{"\n================= RECENT TWEET ==================":[11],"created at: ":"Mon Jul 09 21:37:51 +0000 2018","Tweets: ":"hello!"},{"\n================= RECENT TWEET ==================":[12],"created at: ":"Sun Jul 08 15:58:03 +0000 2018","Tweets: ":"#Isles rule, everyone else sucks"},{"\n================= RECENT TWEET ==================":[13],"created at: ":"Sun Jul 08 15:57:39 +0000 2018","Tweets: ":"yo what it do"},{"\n================= RECENT TWEET ==================":[14],"created at: ":"Sun Jul 08 15:38:24 +0000 2018","Tweets: ":"This are just tweets to fill up space lol"},{"\n================= RECENT TWEET ==================":[15],"created at: ":"Sun Jul 08 15:38:06 +0000 2018","Tweets: ":"I listen to ambient electronic music while I code."},{"\n================= RECENT TWEET ==================":[16],"created at: ":"Sun Jul 08 15:37:35 +0000 2018","Tweets: ":"Did I mention I like hockey?"},{"\n================= RECENT TWEET ==================":[17],"created at: ":"Sun Jul 08 15:36:25 +0000 2018","Tweets: ":"Bacon is good for me"},{"\n================= RECENT TWEET ==================":[18],"created at: ":"Sun Jul 08 15:36:20 +0000 2018","Tweets: ":"I like coffee"},{"\n================= RECENT TWEET ==================":[19],"created at: ":"Sun Jul 08 15:36:14 +0000 2018","Tweets: ":"I love the @NYIslanders"}]
+
+"tiger tiger woods yall was posted to your twitter profile successfully!"

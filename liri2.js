@@ -64,10 +64,11 @@ function spotifySearch(songName) {
                 return;
             } else {
                 output = "\n================= LIRI RESULTS ==================" + '\n' +
-                    "\nSong Name: " + songName.toUpperCase() + '\n' +
+                    "\nSong Name: " + songName.join(" ").toUpperCase() + '\n' +
                     "\nAlbum Name: " + data.tracks.items[0].album.name + '\n' +
                     "\nArtist Name: " + data.tracks.items[0].album.artists[0].name + '\n' +
-                    "\nURL: " + data.tracks.items[0].album.external_urls.spotify + "\n\n\n";
+                    "\nURL: " + data.tracks.items[0].album.external_urls.spotify + "\n\n\n" +
+                    "================================================";
                 console.log(output);
 
                 fs.appendFile("log.txt", output, function (err) {
@@ -110,7 +111,7 @@ function tweetThis(tweetContent) {
 
         client.post('statuses/update', { status: tweetContent }, function (error, tweet, response) {
             if (error) throw error;
-            console.log(tweet);  // Tweet body.
+            console.log(`"${tweetContent}" was posted to your twitter profile successfully!`);
             writeToLog(tweetContent + " was posted to your twitter profile successfully!");
         });
     }
@@ -134,9 +135,10 @@ function doWhatItSays() {
     });
 }
 
+
 function choice(caseData, functionData) {
     switch (caseData) {
-        case 'spotify-this-song':
+        case 'spotify-search-this':
             spotifySearch(functionData);
             break;
         case 'do-what-it-says':
@@ -148,11 +150,12 @@ function choice(caseData, functionData) {
         case 'tweet-this':
             tweetThis(functionData);
             break;
-        case 'movie-this':
+        case 'movie-search-this':
             movieSearch(functionData);
             break;
         default:
             console.log('LIRI doesn\'t understand, please try again!');
+            break;
     }
 }
 
@@ -160,6 +163,6 @@ function appStart(argOne, argTwo) {
     choice(argOne, argTwo);
 };
 
-appStart(process.argv[2], process.argv[3]);
+appStart(process.argv[2], process.argv.slice(3).join(" "));
 
 

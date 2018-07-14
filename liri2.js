@@ -64,7 +64,7 @@ function spotifySearch(songName) {
                 return;
             } else {
                 output = "\n================= LIRI RESULTS ==================" + '\n' +
-                    "\nSong Name: " + songName.join(" ").toUpperCase() + '\n' +
+                    "\nSong Name: " + songName.toUpperCase() + '\n' +
                     "\nAlbum Name: " + data.tracks.items[0].album.name + '\n' +
                     "\nArtist Name: " + data.tracks.items[0].album.artists[0].name + '\n' +
                     "\nURL: " + data.tracks.items[0].album.external_urls.spotify + "\n\n\n" +

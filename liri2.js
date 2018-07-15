@@ -38,14 +38,11 @@ function movieSearch(movieName) {
                 '\nCountry: ' + jsonData.Country + '\n' +
                 '\nLanguage: ' + jsonData.Language + '\n' +
                 '\nPlot: ' + jsonData.Plot + '\n' +
-                '\nActors: ' + jsonData.Actors + "\n\n\n";
+                '\nActors: ' + jsonData.Actors + "\n\n\n" +
+                "================================================";
 
             console.log(output);
-
-            fs.appendFile("log.txt", output, function (err) {
-                if (err) throw err;
-                console.log('Saved to log.txt!');
-            });
+            writeToLog(output);
         }
     });
 
@@ -67,14 +64,10 @@ function spotifySearch(songName) {
                     "\nSong Name: " + songName.toUpperCase() + '\n' +
                     "\nAlbum Name: " + data.tracks.items[0].album.name + '\n' +
                     "\nArtist Name: " + data.tracks.items[0].album.artists[0].name + '\n' +
-                    "\nURL: " + data.tracks.items[0].album.external_urls.spotify + "\n\n\n" +
-                    "================================================";
+                    "\nURL: " + data.tracks.items[0].album.external_urls.spotify + "\n\n" +
+                    "=================================================";
                 console.log(output);
-
-                fs.appendFile("log.txt", output, function (err) {
-                    if (err) throw err;
-                    console.log('Saved to log.txt!');
-                });
+                writeToLog(output);
             };
         });
     }

@@ -7,7 +7,7 @@ var fs = require("fs");
 
 function writeToLog(data) {
     fs.appendFile("log.txt", '\r\n\r\n');
-    fs.appendFile("log.txt", JSON.stringify(data), function (err) {
+    fs.appendFile("log.txt", data, function (err) {
         if (err) {
             return console.log(err);
         }
@@ -89,7 +89,7 @@ function recentTweets() {
                 });
             }
             console.log(data);
-            writeToLog(data);
+            writeToLog(JSON.stringify(data));
         }
     });
 };
@@ -105,7 +105,7 @@ function tweetThis(tweetContent) {
         client.post('statuses/update', { status: tweetContent }, function (error, tweet, response) {
             if (error) throw error;
             console.log(`"${tweetContent}" was posted to your twitter profile successfully!`);
-            writeToLog(tweetContent + " was posted to your twitter profile successfully!");
+            writeToLog(`"${tweetContent}" was posted to your twitter profile successfully!`);
         });
     }
 }

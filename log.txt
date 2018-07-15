@@ -1634,3 +1634,33 @@ Artist Name: Twenty One Pilots
 URL: https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1
 
 =================================================
+
+"\n================= LIRI RESULTS ==================\n\nSong Name: STRESSED OUT\n\nAlbum Name: Blurryface\n\nArtist Name: Twenty One Pilots\n\nURL: https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1\n\n================================================="
+
+"\n================= LIRI RESULTS ==================\n\nTitle: Django Unchained\n\nYear: 2012\n\nRated: R\n\nIMDB Rating: 8.4\n\nRotten Tomatoes Rating: 87%\n\nCountry: USA\n\nLanguage: English, German, French, Italian\n\nPlot: With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.\n\nActors: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington\n\n\n================================================"
+
+
+================= LIRI RESULTS ==================
+
+Title: Django Unchained
+
+Year: 2012
+
+Rated: R
+
+IMDB Rating: 8.4
+
+Rotten Tomatoes Rating: 87%
+
+Country: USA
+
+Language: English, German, French, Italian
+
+Plot: With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
+
+Actors: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington
+
+
+================================================
+[{"\n================= RECENT TWEET ==================":[0],"created at: ":"Sun Jul 15 00:09:33 +0000 2018","Tweets: ":"hello"},{"\n================= RECENT TWEET ==================":[1],"created at: ":"Sun Jul 15 00:05:37 +0000 2018","Tweets: ":"yeooo"},{"\n================= RECENT TWEET ==================":[2],"created at: ":"Sun Jul 15 00:04:23 +0000 2018","Tweets: ":"long island represent"},{"\n================= RECENT TWEET ==================":[3],"created at: ":"Sat Jul 14 21:30:32 +0000 2018","Tweets: ":"tiger tiger woods yall"},{"\n================= RECENT TWEET ==================":[4],"created at: ":"Sat Jul 14 21:26:04 +0000 2018","Tweets: ":"pimpin aint easy"},{"\n================= RECENT TWEET ==================":[5],"created at: ":"Sat Jul 14 21:25:08 +0000 2018","Tweets: ":"Lets go"},{"\n================= RECENT TWEET ==================":[6],"created at: ":"Sat Jul 14 21:23:00 +0000 2018","Tweets: ":"Hello My Dudes"},{"\n================= RECENT TWEET ==================":[7],"created at: ":"Tue Jul 10 22:13:41 +0000 2018","Tweets: ":"This is a random tweet!"},{"\n================= RECENT TWEET ==================":[8],"created at: ":"Mon Jul 09 22:44:41 +0000 2018","Tweets: ":"ketchup"},{"\n================= RECENT TWEET ==================":[9],"created at: ":"Mon Jul 09 22:43:25 +0000 2018","Tweets: ":"bacon"},{"\n================= RECENT TWEET ==================":[10],"created at: ":"Mon Jul 09 22:34:49 +0000 2018","Tweets: ":"whatup"},{"\n================= RECENT TWEET ==================":[11],"created at: ":"Mon Jul 09 22:34:38 +0000 2018","Tweets: ":"hello"},{"\n================= RECENT TWEET ==================":[12],"created at: ":"Mon Jul 09 22:32:14 +0000 2018","Tweets: ":"LETS GO ISLANDERS!"},{"\n================= RECENT TWEET ==================":[13],"created at: ":"Mon Jul 09 21:44:41 +0000 2018","Tweets: ":"yo"},{"\n================= RECENT TWEET ==================":[14],"created at: ":"Mon Jul 09 21:40:19 +0000 2018","Tweets: ":"lets"},{"\n================= RECENT TWEET ==================":[15],"created at: ":"Mon Jul 09 21:37:51 +0000 2018","Tweets: ":"hello!"},{"\n================= RECENT TWEET ==================":[16],"created at: ":"Sun Jul 08 15:58:03 +0000 2018","Tweets: ":"#Isles rule, everyone else sucks"},{"\n================= RECENT TWEET ==================":[17],"created at: ":"Sun Jul 08 15:57:39 +0000 2018","Tweets: ":"yo what it do"},{"\n================= RECENT TWEET ==================":[18],"created at: ":"Sun Jul 08 15:38:24 +0000 2018","Tweets: ":"This are just tweets to fill up space lol"},{"\n================= RECENT TWEET ==================":[19],"created at: ":"Sun Jul 08 15:38:06 +0000 2018","Tweets: ":"I listen to ambient electronic music while I code."}]
+
